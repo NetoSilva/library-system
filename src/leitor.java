@@ -1,6 +1,6 @@
 public class leitor extends usuario {
     
-    private boolean multaPendente;
+    private boolean multaPendente = true;
 
     public leitor(String id, String nome, String email) {
         super(id, nome, email);
