@@ -6,7 +6,7 @@ public class emprestimoService {
             return false;
         }
 
-        System.out.println("Empréstimo realizado com sucesso!");
+        System.out.println("Sucesso: Empréstimo realizado com sucesso!");
         return true;
     }
 }
